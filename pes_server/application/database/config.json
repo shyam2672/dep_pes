@@ -1,0 +1,8 @@
+{
+    "host":"pehchaan.postgres.database.azure.com",
+    "port": 5432,
+    "database": "postgres", 
+    "user": "intruder",
+    "password": "Bharat@111100"
+    }
+    
